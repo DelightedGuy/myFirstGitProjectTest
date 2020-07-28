@@ -1,2 +1,3 @@
 This is my new build git project of test.
-�޸Ĳ�ͬ����GitHub��
+ÐÞ¸Ä²¢Í¬²½µ½GitHubÉÏ
+居然会中文乱码。。。
